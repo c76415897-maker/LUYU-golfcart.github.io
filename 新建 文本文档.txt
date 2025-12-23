@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Golf Cart Manufacturer | OEM & Long-Term Supply Partner</title>
+    <meta name="description" content="China-based golf cart manufacturer offering OEM customization and long-term supply cooperation for overseas distributors and authorized dealers.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+        }
+        header {
+            background: #0b3d2e;
+            color: #fff;
+            padding: 60px 20px;
+            text-align: center;
+        }
+        section {
+            padding: 50px 20px;
+            max-width: 1000px;
+            margin: auto;
+        }
+        h1, h2 {
+            color: #0b3d2e;
+        }
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 20px;
+        }
+        .box {
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 6px;
+        }
+        footer {
+            background: #f5f5f5;
+            padding: 30px 20px;
+            text-align: center;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Golf Cart Manufacturing Partner</h1>
+    <p>Reliable OEM Production • Stable Quality • Long-Term Cooperation</p>
+</header>
+
+<section>
+    <h2>Company Overview</h2>
+    <p>
+        We are a golf cart manufacturer based in China, specializing in the production of golf carts and electric utility vehicles for overseas markets.
+        Our focus is on stable manufacturing, consistent quality control, and long-term cooperation with distributors and authorized dealers.
+    </p>
+</section>
+
+<section>
+    <h2>Product Range</h2>
+    <div class="features">
+        <div class="box">
+            <h3>Golf Carts</h3>
+            <p>2-seater and multi-seat golf carts suitable for golf courses, resorts, and residential communities.</p>
+        </div>
+        <div class="box">
+            <h3>Electric Utility Vehicles</h3>
+            <p>Multi-purpose electric vehicles for commercial and property management applications.</p>
+        </div>
+        <div class="box">
+            <h3>Customized Configurations</h3>
+            <p>Flexible configurations based on market and application requirements.</p>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h2>OEM & Customization Capability</h2>
+    <ul>
+        <li>Private labeling and logo customization</li>
+        <li>Wheel, color, and suspension options</li>
+        <li>Battery options: Lead-acid or Lithium</li>
+        <li>Configuration adjustment for local regulations</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Manufacturing & Quality</h2>
+    <p>
+        Our production process follows strict quality management standards to ensure product consistency and reliability.
+        Each vehicle undergoes inspection before shipment to meet overseas market requirements.
+    </p>
+</section>
+
+<section>
+    <h2>Application Scenarios</h2>
+    <p>
+        Our products are widely used in golf courses, resorts, gated communities, industrial parks, and commercial facilities.
+    </p>
+</section>
+
+<section>
+    <h2>Contact Us</h2>
+    <p>
+        <strong>Company:</strong> XXX Golf Cart Manufacturing Co., Ltd.<br>
+        <strong>Location:</strong> China<br>
+        <strong>Email:</strong> carolxxxx@gmail.com
+    </p>
+</section>
+
+<footer>
+    © 2025 XXX Golf Cart Manufacturing Co., Ltd. All rights reserved.
+</footer>
+
+</body>
+</html>
